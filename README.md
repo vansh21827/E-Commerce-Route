@@ -146,8 +146,8 @@ route-cart/
 ├── vite.config.js
 └── README.md
 ```
-
----
+Commit This Line in index.html
+<script type="module" src="/src/main.jsx"></script>
 
 # 🔄 Application Workflow
 
@@ -302,36 +302,9 @@ This project demonstrates practical implementation of:
 
 ---
 
-# 🧪 Sprint Deliverables Covered
-
-✅ Static Routing
-
-✅ Dynamic Routing with `useParams()`
-
-✅ Product Detail Fetching
-
-✅ Global Cart using Context API
-
-✅ Persistent Navbar
-
-✅ Dynamic Cart Badge
-
-✅ Add to Cart Functionality
-
-✅ LocalStorage Persistence
-
-✅ Guest Login
-
-✅ Protected Checkout Route
-
----
-
 # 👨‍💻 Author
 
-**Vansh Saxena**
-
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
+**Vansh Bansal**
 
 ---
 
