@@ -5,54 +5,24 @@ RouteCart is a modern and responsive **React-based E-Commerce Single Page Applic
 # Live Demo
 
 🔗 **Live Website:**  
-> Add your Vercel deployment URL here
-
-Example:
-
-```text
-https://routecart.vercel.app
-```
-
----
-
-## 📂 GitHub Repository
-
-🔗 **Repository:**  
-> Add your GitHub repository URL here
-
-Example:
-
-```text
-https://github.com/your-username/route-cart
-```
-
----
+https://e-commerce-route-ci19-gamma.vercel.app/
 
 # 📸 Preview
 
-> Add screenshots of your application here.
-
 ### Home Page
-
-![Home](screenshots/home.png)
+<img width="1121" height="903" alt="image" src="https://github.com/user-attachments/assets/d4c0111d-7f8a-4dc2-a7e0-47fa366c5744" />
 
 ### Shop Page
-
-![Shop](screenshots/shop.png)
+<img width="930" height="917" alt="image" src="https://github.com/user-attachments/assets/4e39d1c7-a3ed-4b28-9a81-a8522254b7b4" />
 
 ### Product Details
-
-![Product](screenshots/product-details.png)
+<img width="932" height="907" alt="image" src="https://github.com/user-attachments/assets/e7be5bed-c308-4072-8116-46f365eaa5ac" />
 
 ### Shopping Cart
-
-![Cart](screenshots/cart.png)
+<img width="928" height="917" alt="image" src="https://github.com/user-attachments/assets/4de5df08-bcc4-434f-8c77-2a6083e0df9b" />
 
 ### Checkout
-
-![Checkout](screenshots/checkout.png)
-
----
+<img width="912" height="885" alt="image" src="https://github.com/user-attachments/assets/70e75ded-6344-4af3-a52c-d3a747486fd4" />
 
 # ✨ Features
 
@@ -105,8 +75,6 @@ https://github.com/your-username/route-cart
 - Modern UI
 - Reusable Components
 
----
-
 # 🛠️ Tech Stack
 
 ### Frontend
@@ -133,8 +101,6 @@ https://github.com/your-username/route-cart
 ### Storage
 
 - LocalStorage
-
----
 
 # 📁 Project Structure
 
